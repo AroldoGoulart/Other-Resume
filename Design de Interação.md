@@ -50,4 +50,4 @@
 		- Compensadores
 		- Emocionalmente adequados
 
-![Metas de Usabilidade](http://prntscr.com/n4cofpg)
+![Metas de Usabilidade](https://github.com/SnowLew/Other-Resume/blob/master/Screenshot_11.png?raw=true)
