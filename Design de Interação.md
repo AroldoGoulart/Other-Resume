@@ -32,9 +32,13 @@
 		- Utilização de icones em verossemelhança a realidade
 		- Interatividadee 
 
+// Brincadeira abaixo
+Exemplos de criterios de usabilidade(_geralmente utilizado){
+	{eficiencia, learnability, memorability} = this.props.tempo.para
 	eficiencia = tempo para completar tarefa
 	learnability = tempo para aprender tarefa
-	memorability = numero de erro cometidos;
+	 memorability = numero de erro cometidos;
+}
 
 ## Metas experiencia de usuario
 
@@ -50,4 +54,34 @@
 		- Compensadores
 		- Emocionalmente adequados
 
-![Metas de Usabilidade](https://github.com/SnowLew/Other-Resume/blob/master/Screenshot_11.png?raw=true)
+![alt text](http://prntscr.com/n4cofpg)
+
+## Principios de usabilidade e design(mais comuns)
+
+	Visibilidade: Quanto mais visivel as funçoes, mais os usuarios saberam como proceder.
+		- "Quanto mais fora de alcance, torna-se mais dificil encontra-las e saber como utiliza-las"
+		- Funções de um carro, buzina, farol, pisca-pisca, buzinha, pisca-alerta.. (indicando oque pode ser feito.)
+
+	Feed-back: "Os usuarios devem saber o proximo passo durante a realização das tarefas"
+		- Retorno de informaçoes a respeito da ação realizada pelo mesmo.
+		Tipos de feed-back:
+			- Audio
+			- Tatil
+			- Verbal
+			- Visual
+			- Combinação dos mesmos
+
+	Restrições: "Delimitar o tipo de itneração que pode ocorrer no momento"
+		- Desativar certos sombreamentos, elevação dos icones, etc.
+		Tipos de Restrição:
+			- Fisica (Leitor de disco aceita determinado formato, forma a qual o teclado pode ser pressionado) 
+			- Logica (derivado do senso comum dos usuarios, reaçoes obvias, "oh, uma lupa deve indicar uma aba de pesquisa.")
+			- Cultural(Uso de vermelho para alertas, icones de "!" para atenção, etc..)
+			
+	Mapeamento
+
+	Consistencia:
+
+	affordance:
+
+	~~Dom Norman(1988), bestseller The desgin of everyday things.
