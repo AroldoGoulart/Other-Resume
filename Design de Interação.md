@@ -71,7 +71,7 @@ Exemplos de criterios de usabilidade(_geralmente utilizado){
 			- Visual
 			- Combinação dos mesmos
 
-	Restrições: "Delimitar o tipo de itneração que pode ocorrer no momento"
+	Restrições: "Delimitar o tipo de interração que pode ocorrer no momento"
 		- Desativar certos sombreamentos, elevação dos icones, etc.
 		Tipos de Restrição:
 			- Fisica (Leitor de disco aceita determinado formato, forma a qual o teclado pode ser pressionado) 
@@ -80,8 +80,22 @@ Exemplos de criterios de usabilidade(_geralmente utilizado){
 			
 	Mapeamento
 
-	Consistencia:
+	Consistencia: "Qual aspecto da interface deve ser consistente com qual?"
+		- Consistencia de elementos entre as telas
+		- "Usar o mesmo tipo de fonte, mesmo icone realiza mesma função, etc.."
+		- Itens semelhantes apresentam funçoes semelhantes
+		- Consistencia visual (padrao visual)
+		Vantagem:
+			- Mais faceis aprender a usar (learnability)
+		Reflexao:
+			- "Existem muitas maneiras de trancar coisas no mundo fisico (mundo externo) e inumeras outras de "fechar" algo no mundo virtual(mundo interno)(o problem que os designers enfrentam é saber com qual deles ser consistente.)
 
-	affordance:
+	Affordance: "Dar uma pista de como o objeto funciona"
+		- "Os objetos de interface deveriam ser projetados de maneira a tornar obvio o que se pode fazer com eles"
+		- links, barras, botoes, deveriam permitir que sejam clicados.. rolados.. pressionados..
+		Reflexao:
+			- Esse termo foi usado de maneira erronea por muito tempo como um "cliche", sendo assim, ele perdeu parte de seu significado original
+			- Nem sempre objetos, ou interfaces, verossemelhantes a realidade (em 3D) sao mais "affordance" que objetos 2d, claro, tendo em vista ainda a dificuldade de simular um design 3d (recursos)
 
-	~~Dom Norman(1988), bestseller The desgin of everyday things.
+~~Dom Norman(1988), bestseller The design of everyday things.
+
