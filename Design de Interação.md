@@ -99,3 +99,22 @@ Exemplos de criterios de usabilidade(_geralmente utilizado){
 
 ~~Dom Norman(1988), bestseller The design of everyday things.
 
+
+
+## Heuristica e principios de usabilidade
+	Outra forma de orietação sao os principios de usabilidade ("Fale a lingua do usuario")
+![Principios](https://raw.githubusercontent.com/SnowLew/Other-Resume/master/Screenshot_13.png)
+
+
+### Principais Pontos
+	- O design de interaçao preocupa-se com o projeto de produtos interativos que apoiem os individuos em sua vida diaria e em seu trabalho.
+	- O Design de interacao é multidisciplinar, envolvendo muitas contribuicdes de uma ampla variedade de disciplinas e areas.
+	- O design de interacao é hoje um grande negocio: muitas empresas o querem, mas poucas sabem como faze-lo.
+	- Otimizar a interacao entre usuarios com produtos interativos requer que se levem em consideracao varios fatores interdependentes, incluindo contexto de uso, tipo de tarefa e tipo de usuario.
+	- Os produtos interativos precisam ser projetados para atender as metas de usabilida-de, como facilidade de uso e entendimento.
+	- As metas decorrentes da experiencia do usuario estao preocupadas com criar sistemas que melhorem esta experiencia, fazendo com que sejam mais agradaveis, divertidas, uteis, motivadores e satisfatarios.
+	- Os principios de design e de usabilidade, como feedback e simplicidade, constituem heuristicas uteis para analisar e avaliar aspectos de um produto interativo.
+	
+	
+	
+
