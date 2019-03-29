@@ -54,7 +54,7 @@ Exemplos de criterios de usabilidade(_geralmente utilizado){
 		- Compensadores
 		- Emocionalmente adequados
 
-![alt text](http://prntscr.com/n4cofpg)
+![Metas de Usuabilidade](https://raw.githubusercontent.com/SnowLew/Other-Resume/master/Screenshot_11.png)
 
 ## Principios de usabilidade e design(mais comuns)
 
